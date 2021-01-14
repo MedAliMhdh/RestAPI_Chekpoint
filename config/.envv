@@ -1,3 +1,6 @@
 DATA_BASE=<Put your database connection URL>
 
 PORT=<Your port>
+
+
+//Don't forget to change file's name to ".env"
