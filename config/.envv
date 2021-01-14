@@ -1,0 +1,3 @@
+DATA_BASE=<Put your database connection URL>
+
+PORT=<Your port>
