@@ -1,0 +1,30 @@
+{
+  "name": "restapi_chekpoint",
+  "version": "1.0.0",
+  "description": "restapi_chekpoint",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MedAliMhdh/RestAPI_Chekpoint.git"
+  },
+  "keywords": [
+    "Mongoose",
+    "Express",
+    "Node",
+    "MongoDB"
+  ],
+  "author": "Mohamed Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MedAliMhdh/RestAPI_Chekpoint/issues"
+  },
+  "homepage": "https://github.com/MedAliMhdh/RestAPI_Chekpoint#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.11"
+  }
+}
